@@ -150,11 +150,11 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
             <div className="flex flex-wrap items-center gap-6 text-sm text-white/60">
-              <a href="mailto:support@raahico.com" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="mailto:admin@raahico.com" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Mail className="w-4 h-4" />
-                support@raahico.com
+                admin@raahico.com
               </a>
-              <a href="tel:+918045678900" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="tel:+916361181447" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Phone className="w-4 h-4" />
                 +91 80 4567 8900
               </a>

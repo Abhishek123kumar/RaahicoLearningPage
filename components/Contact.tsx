@@ -18,22 +18,22 @@ const contactMethods = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'support@raahico.com',
-    href: 'mailto:support@raahico.com',
+    value: 'admin@raahico.com',
+    href: 'mailto:admin@raahico.com',
     color: 'bg-blue-500',
   },
   {
     icon: Phone,
     label: 'Phone',
     value: '+91 80 4567 8900',
-    href: 'tel:+918045678900',
+    href: 'tel:+916361181447',
     color: 'bg-primary',
   },
   {
     icon: MessageCircle,
     label: 'WhatsApp',
     value: '+91 98765 43210',
-    href: 'https://wa.me/919876543210',
+    href: 'https://wa.me/916361181447',
     color: 'bg-green-500',
   },
   {
