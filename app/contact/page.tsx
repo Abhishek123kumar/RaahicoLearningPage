@@ -30,7 +30,7 @@ const contactMethods = [
   {
     icon: Phone,
     title: 'Phone',
-    value: '+91 80 4567 8900',
+    value: '+91 6361181447',
     href: 'tel:+916361181447',
     description: 'Mon-Sat, 9am-6pm',
     color: 'bg-primary',
@@ -38,7 +38,7 @@ const contactMethods = [
   {
     icon: MessageCircle,
     title: 'WhatsApp',
-    value: '+91 98765 43210',
+    value: '+91 6361181447',
     href: 'https://wa.me/916361181447',
     description: 'Instant support',
     color: 'bg-green-500',

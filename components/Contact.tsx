@@ -25,14 +25,14 @@ const contactMethods = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+91 80 4567 8900',
+    value: '+91 6361181447',
     href: 'tel:+916361181447',
     color: 'bg-primary',
   },
   {
     icon: MessageCircle,
     label: 'WhatsApp',
-    value: '+91 98765 43210',
+    value: '+91 6361181447',
     href: 'https://wa.me/916361181447',
     color: 'bg-green-500',
   },
